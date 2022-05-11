@@ -11,6 +11,9 @@ function App() {
       <main>
         <Sidebar></Sidebar>
         <content-area>
+          <div>
+            change 1
+          </div>
         </content-area>
       </main>
       <Footer title="App 2" ></Footer>
