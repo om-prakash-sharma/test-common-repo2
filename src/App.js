@@ -35,6 +35,9 @@ function App() {
           <div>
             change 8
           </div>
+          <div>
+            change 9
+          </div>
         </content-area>
       </main>
       <Footer title="App 2" ></Footer>
