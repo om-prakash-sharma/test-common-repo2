@@ -17,6 +17,9 @@ function App() {
           <div>
             change 2
           </div>
+          <div>
+            change 3
+          </div>
         </content-area>
       </main>
       <Footer title="App 2" ></Footer>
